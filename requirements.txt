@@ -1,7 +1,4 @@
 scikit-learn
 numpy
 pandas 
-streamlit==1.21.0
 pickle
---upgrade pip
-
